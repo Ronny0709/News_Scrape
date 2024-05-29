@@ -1,0 +1,140 @@
+Author ID,Division,Division Count
+1,World,30
+1,Politics,10
+1,Analysis,3
+1,Focus,1
+2,World,64
+2,Politics,27
+2,Focus,3
+2,Analysis,2
+3,World,47
+3,Politics,15
+3,Analysis,8
+4,World,34
+4,Politics,25
+4,Focus,3
+5,World,65
+5,Politics,43
+5,Society,6
+5,Analysis,1
+6,World,37
+6,Politics,15
+6,Analysis,2
+6,Focus,4
+7,World,32
+7,Politics,15
+7,Focus,3
+7,Analysis,3
+8,World,30
+8,Politics,2
+9,World,58
+9,Politics,19
+10,World,58
+10,Politics,11
+10,Analysis,1
+11,World,41
+11,Politics,21
+11,Analysis,21
+11,Focus,4
+11,Explainer,1
+11,Science & health,1
+12,World,50
+12,Politics,26
+12,Analysis,7
+12,Focus,3
+12,Crime & legal,1
+12,Science & health,1
+12,Society,1
+13,World,44
+13,Politics,7
+13,Analysis,2
+14,World,35
+14,Politics,14
+14,Focus,5
+14,Analysis,1
+15,World,31
+15,Politics,17
+15,Focus,5
+15,Society,1
+15,Crime & legal,2
+16,World,45
+16,Politics,6
+16,Focus,2
+16,Analysis,9
+17,World,53
+17,Politics,30
+17,Society,1
+17,Focus,2
+17,Analysis,4
+17,Crime & legal,1
+18,World,32
+18,Science & health,26
+18,Crime & legal,1
+18,Politics,1
+19,World,45
+19,Crime & legal,3
+19,Politics,14
+19,Focus,4
+20,World,32
+20,Science & health,21
+20,Focus,9
+20,Analysis,9
+21,World,34
+21,Science & health,24
+21,Focus,2
+22,World,30
+22,Politics,11
+22,Focus,1
+22,Crime & legal,3
+23,World,31
+23,Politics,20
+23,Crime & legal,3
+23,Analysis,1
+24,World,33
+24,Politics,13
+24,Focus,2
+24,Society,1
+25,World,34
+25,Politics,8
+25,Crime & legal,1
+25,Analysis,5
+25,Focus,1
+26,World,31
+26,Politics,3
+27,World,31
+27,Science & health,18
+28,World,34
+28,Politics,17
+28,Focus,4
+28,Analysis,2
+29,World,70
+29,Politics,19
+29,Analysis,7
+29,Focus,2
+30,World,30
+30,Politics,20
+30,Analysis,7
+31,World,39
+31,Politics,12
+31,Analysis,5
+31,Crime & legal,1
+32,World,48
+32,Politics,8
+32,Analysis,1
+33,World,38
+33,Politics,18
+33,Focus,3
+33,Crime & legal,2
+33,Analysis,3
+34,World,31
+34,Politics,10
+34,Crime & legal,1
+34,Analysis,8
+34,Focus,1
+35,World,52
+35,Focus,5
+35,Analysis,3
+35,Politics,1
+36,World,36
+36,Analysis,1
+36,Politics,1
